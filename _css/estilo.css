@@ -1,7 +1,6 @@
 @charset "UTF-8";
 
 body {
-    position: relative;
     background-color: #dddddd;
     color: rgba (0,0,0,1);
 }
@@ -20,9 +19,9 @@ p {
 }
 
 header#cabecalho img#icone {
-    position: relative;
-    left: 735px ;
-    top: -25px ;
+    position: absolute;
+    left: 750px ;
+    top: 70px ;
 }
 
 header#cabecalho {
